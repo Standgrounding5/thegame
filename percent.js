@@ -1,1 +1,1 @@
-int percentage[];
+let percentage = [];
